@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Schlatt Mod",
+    "description": "Enjoy 'Schlagg' in Opera GX",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Bella Lawrence"
     },
     "icons":
     {
@@ -133,30 +133,30 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 240,
+                        "s": 22,
+                        "l": 45
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 5,
+                        "s": 100,
+                        "l": 69
                     }
                 },
                 "light":
                 {
                     "gx_accent":
                     {
-                        "h": 112,
-                        "s": 80,
-                        "l": 44
+                        "h": 253,
+                        "s": 41,
+                        "l": 68
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 32,
-                        "l": 16
+                        "h": 336,
+                        "s": 80,
+                        "l": 80
                     }
                 }
             },
